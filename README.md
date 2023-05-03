@@ -1,1 +1,1 @@
-# FIDO REST APIS for WSO2 Identity Server
+# Fido Rest APIS for WSO2 Identity Server
