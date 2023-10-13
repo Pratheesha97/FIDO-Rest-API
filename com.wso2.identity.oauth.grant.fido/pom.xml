@@ -23,7 +23,7 @@
     <artifactId>com.wso2.identity.oauth.grant.fido</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
-    <name>Hilton FIDO Grant</name>
+    <name>FIDO Grant</name>
     <url>http://maven.apache.org</url>
 
     <dependencies>
